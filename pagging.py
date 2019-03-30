@@ -1,5 +1,5 @@
 # -*- coding: utf8 -*-
-#author :- Jabed
+#author :- Md Jabed Ali(jabed)
 
 import bs4, requests, sys, csv, #int()
 import time
